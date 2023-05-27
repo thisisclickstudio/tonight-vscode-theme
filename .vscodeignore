@@ -1,0 +1,28 @@
+# editor
+.editorconfig
+
+# git
+.gitignore
+.github
+
+# dependencies
+.husky/
+.commitlintrc.json
+.lintstagedrc.json
+.prettierrc.json
+node_modules/
+
+# public
+public/
+
+# docs
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+
+# vscode
+.vscode/
+.vscode-test/
+.vscodeignore
+
+# misc
+.DS_Store

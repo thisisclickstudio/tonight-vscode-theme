@@ -1,0 +1,61 @@
+{
+  "name": "tonight-vscode-theme",
+  "displayName": "Tonight Theme",
+  "version": "1.0.0",
+  "description": "A Tonight Theme for Visual Studio Code.",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "tonight",
+    "dark",
+    "city pop"
+  ],
+  "bugs": {
+    "url": "https://github.com/thisisclickstudio/tonight-vscode-theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thisisclickstudio/tonight-vscode-theme"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Joe Takara",
+    "email": "anuchit.boonsom@gmail.com"
+  },
+  "publisher": "thisisclick",
+  "scripts": {
+    "prepare": "husky install",
+    "prettier": "prettier --check .",
+    "prettier:fix": "prettier --write ."
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tonight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tonight-dark-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.3",
+    "@commitlint/config-conventional": "^17.6.3",
+    "@vscode/vsce": "^2.19.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.2",
+    "prettier": "2.8.8"
+  },
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  }
+}

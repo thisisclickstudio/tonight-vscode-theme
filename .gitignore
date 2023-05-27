@@ -1,0 +1,8 @@
+# dependencies
+node_modules/
+
+# vscode
+*.vsix
+
+# misc
+.DS_Store
