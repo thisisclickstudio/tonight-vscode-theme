@@ -48,7 +48,7 @@
     "prettier": "2.8.8"
   },
   "engines": {
-    "vscode": "^1.43.0"
+    "vscode": "^1.45.0"
   },
   "publishConfig": {
     "access": "public"
