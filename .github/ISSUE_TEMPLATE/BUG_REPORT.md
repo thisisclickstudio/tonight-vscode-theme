@@ -11,10 +11,9 @@ Please provide a clear and concise description of the bug you encountered.
 
 If your issue doesn't follow the provided template, it may be closed without comment.
 
-For bug reports, please create a "Discussion" using the "Bug Reports" category:
-[Create a new discussion](https://github.com/thisisclickstudio/tonight-vscode-theme/discussions/new?category=bug-reports)
+For bug reports, please create a "Discussion" using the "Bug Reports" category: https://github.com/thisisclickstudio/tonight-vscode-theme/discussions/new?category=bug-reports
 
-Note: Please delete this placeholder text.
+! Note: Don’t forget to delete placeholder text
 -->
 
 ## Description
@@ -39,18 +38,18 @@ Describe what actually happened.
 
 ## Environment
 
-Please provide information about your environment.
+<!-- Please provide information about your environment. -->
 
-- `tonight-vscode-theme` Version: <!-- Specify the version of `tonight-vscode-theme` you are using -->
-- Visual Studio Code: <!-- Specify the version of `Visual Studio Code` you are using here -->
+- Tonight Theme Version: <!-- Specify the version of Tonight Theme you are using -->
+- Visual Studio Code: <!-- Specify the version of Visual Studio Code you are using here -->
 - Operating System: <!-- Specify the operating system you encountered the bug on -->
-- Additional Environment Details: <!-- Add any other relevant environment details -->
+- Additional Environment Details: <!-- Add any other relevant environment details or write "N/A" if not applicable -->
 
 ## Additional Information
 
 Add any additional information or context about the bug here.
+If you don't have any additional information, you can write "N/A".
 
 ## Screenshots / Videos
 
-If applicable, you can attach screenshots or videos to help illustrate the problem. Please refer to the following link for more information on supported file types and size limits:
-[Attaching Files on GitHub](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/attaching-files)
+If you have any relevant screenshots or videos, please attach them to help us better understand the issue. You can refer to [Attaching Files on GitHub](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/attaching-files) for information on supported file types and size limits. If you don't have any screenshots or videos, you can write "N/A".

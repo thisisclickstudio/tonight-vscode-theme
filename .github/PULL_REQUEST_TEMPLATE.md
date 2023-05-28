@@ -3,25 +3,22 @@ Thank you for contributing!
 
 Provide a brief summary of your changes in the title above.
 
-Note: Don’t forget to delete placeholder text
+! Note: Don’t forget to delete placeholder text
 -->
 
 ## Description
 
-<!--
-Provide a detailed description of the changes introduced by the pull request.
-Include any relevant information about implementation details or dependencies.
--->
+Provide a detailed description of the changes introduced by the pull request. Include any relevant information about implementation details or dependencies.
 
 ## Related Issues
 
-<!-- List any related issues or pull requests that are being addressed by this pull request. -->
+List any related issues or pull requests that are being addressed by this pull request.
 
 ---
 
 ### What is the purpose of this pull request?
 
-<!-- (Put an "X" next to an item) -->
+<!-- Put an "X" next to an item [X]-->
 
 - [ ] New Feature
 - [ ] Bug fix
@@ -30,7 +27,7 @@ Include any relevant information about implementation details or dependencies.
 
 ### Before submitting the PR, please make sure you do the following
 
-<!-- (Put an "X" next to an item) -->
+<!-- Put an "X" next to an item [X]-->
 
 - [ ] Read the [Contributing Guidelines](https://github.com/thisisclickstudio/tonight-vscode-theme/blob/main/CONTRIBUTING.md).
 - [ ] Follow the [Style Guide](https://github.com/thisisclickstudio/tonight-vscode-theme/blob/main/CONTRIBUTING.md#style-guide).
